@@ -8,8 +8,8 @@ var addOuro = 1
 var PlacaPc = new Image()
 var Pc = new Image()
 
-PlacaPc.src = 'sempc10.png'
-Pc.src = 'pc.png'
+PlacaPc.src = './imgs/sempc10.png'
+Pc.src = './imgs/pc.png'
 
 //TEXTO
 ctx.font = 'italic 18px Arial';
